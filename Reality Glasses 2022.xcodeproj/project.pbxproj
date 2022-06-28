@@ -11,6 +11,8 @@
 		0DBBABA3286A99B400FAB92B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBBABA2286A99B400FAB92B /* ContentView.swift */; };
 		0DBBABA7286A99B500FAB92B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DBBABA6286A99B500FAB92B /* Assets.xcassets */; };
 		0DBBABAA286A99B500FAB92B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DBBABA9286A99B500FAB92B /* Preview Assets.xcassets */; };
+		0DBBABB2286B997700FAB92B /* Screenshot02.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0DBBABB0286B997700FAB92B /* Screenshot02.PNG */; };
+		0DBBABB3286B997700FAB92B /* Screenshot01.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0DBBABB1286B997700FAB92B /* Screenshot01.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		0DBBABA2286A99B400FAB92B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0DBBABA6286A99B500FAB92B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DBBABA9286A99B500FAB92B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0DBBABB0286B997700FAB92B /* Screenshot02.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.PNG; sourceTree = "<group>"; };
+		0DBBABB1286B997700FAB92B /* Screenshot01.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +56,10 @@
 			isa = PBXGroup;
 			children = (
 				0DBBABA0286A99B400FAB92B /* AppDelegate.swift */,
-				0DBBABA2286A99B400FAB92B /* ContentView.swift */,
 				0DBBABA6286A99B500FAB92B /* Assets.xcassets */,
+				0DBBABA2286A99B400FAB92B /* ContentView.swift */,
 				0DBBABA8286A99B500FAB92B /* Preview Content */,
+				0DBBABB4286B9A2A00FAB92B /* Screenshots */,
 			);
 			path = "Reality Glasses 2022";
 			sourceTree = "<group>";
@@ -65,6 +70,15 @@
 				0DBBABA9286A99B500FAB92B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0DBBABB4286B9A2A00FAB92B /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				0DBBABB1286B997700FAB92B /* Screenshot01.PNG */,
+				0DBBABB0286B997700FAB92B /* Screenshot02.PNG */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +140,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DBBABAA286A99B500FAB92B /* Preview Assets.xcassets in Resources */,
+				0DBBABB2286B997700FAB92B /* Screenshot02.PNG in Resources */,
+				0DBBABB3286B997700FAB92B /* Screenshot01.PNG in Resources */,
 				0DBBABA7286A99B500FAB92B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
