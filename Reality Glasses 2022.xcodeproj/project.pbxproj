@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		0DBBABA1286A99B400FAB92B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBBABA0286A99B400FAB92B /* AppDelegate.swift */; };
 		0DBBABA3286A99B400FAB92B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBBABA2286A99B400FAB92B /* ContentView.swift */; };
-		0DBBABA5286A99B400FAB92B /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 0DBBABA4286A99B400FAB92B /* Experience.rcproject */; };
 		0DBBABA7286A99B500FAB92B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DBBABA6286A99B500FAB92B /* Assets.xcassets */; };
 		0DBBABAA286A99B500FAB92B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DBBABA9286A99B500FAB92B /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		0DBBAB9D286A99B400FAB92B /* Reality Glasses 2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reality Glasses 2022.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DBBABA0286A99B400FAB92B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DBBABA2286A99B400FAB92B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		0DBBABA4286A99B400FAB92B /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		0DBBABA6286A99B500FAB92B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DBBABA9286A99B500FAB92B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				0DBBABA0286A99B400FAB92B /* AppDelegate.swift */,
 				0DBBABA2286A99B400FAB92B /* ContentView.swift */,
-				0DBBABA4286A99B400FAB92B /* Experience.rcproject */,
 				0DBBABA6286A99B500FAB92B /* Assets.xcassets */,
 				0DBBABA8286A99B500FAB92B /* Preview Content */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				0DBBABA3286A99B400FAB92B /* ContentView.swift in Sources */,
 				0DBBABA1286A99B400FAB92B /* AppDelegate.swift in Sources */,
-				0DBBABA5286A99B400FAB92B /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
